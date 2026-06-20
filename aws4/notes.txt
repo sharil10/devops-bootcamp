@@ -1,0 +1,10 @@
+[
+    [
+        "nat-0f96c898dcf9082d2",
+        "deleted"
+    ]
+]
+[]
+[
+    "132656278182.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/sharil"
+]
