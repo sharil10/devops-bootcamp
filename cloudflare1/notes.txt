@@ -1,0 +1,10 @@
+---NameServers---
+ziggy.ns.cloudflare.com.
+henrik.ns.cloudflare.com.
+
+---public Portfolio & custom Domain---
+Url pages.dev: https://sharil10.github.io/ 
+Custom domain: myvision.asia
+
+---Private Subdomain---
+Url Private-Subdomin:https://dash.cloudflare.com/551d903820b9d50fbc9cbddaac9bf75f/pages/vi\>
