@@ -1,24 +1,12 @@
-
-The command 'docker' could not be found in this WSL 2 distro.
-We recommend to activate the WSL integration in Docker Desktop settings.
-
-For details about using Docker Desktop with WSL 2, visit:
-
-https://docs.docker.com/go/wsl2/
-
-
-The command 'docker' could not be found in this WSL 2 distro.
-We recommend to activate the WSL integration in Docker Desktop settings.
-
-For details about using Docker Desktop with WSL 2, visit:
-
-https://docs.docker.com/go/wsl2/
-
-
-The command 'docker' could not be found in this WSL 2 distro.
-We recommend to activate the WSL integration in Docker Desktop settings.
-
-For details about using Docker Desktop with WSL 2, visit:
-
-https://docs.docker.com/go/wsl2/
-
+Docker version 29.4.3, build 055a478
+IMAGE                   ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest           28bd5fe8b56d         13MB         3.93MB        
+hello-world:latest      96498ffd522e       25.9kB         9.49kB        
+infratify/card:latest   2414f6668e83         81MB         23.1MB        
+infratify/web:v1        e19fe394899a       92.5MB           26MB   U    
+nginx:alpine            54f2a904c251       93.3MB         26.9MB        
+nginx:latest            ec4ed8b5299e        241MB           66MB        
+web:latest              e19fe394899a       92.5MB           26MB   U    
+web:v1                  e19fe394899a       92.5MB           26MB   U    
+CONTAINER ID   IMAGE     COMMAND                  CREATED      STATUS                  PORTS     NAMES
+a110c98e84ca   web:v1    "/docker-entrypoint.…"   3 days ago   Exited (0) 3 days ago             web
