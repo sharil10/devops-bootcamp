@@ -2,7 +2,7 @@
 FROM node:20 AS build
 WORKDIR /app
 COPY . .
-RUN npm ci
+RUN npm clean-install
 RUN npm run build
 
 # Stage 2: Production stage (Ini sahaja menjadi image akhir)
