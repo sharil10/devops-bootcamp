@@ -1,9 +1,0 @@
-IMAGE       ID             DISK USAGE   CONTENT SIZE   EXTRA
-app:kecil   35f15053c3c3        104MB         31.2MB   U    
-NETWORK ID     NAME      DRIVER    SCOPE
-a8350920a6be   arena     bridge    local
-2da93127c4b0   bridge    bridge    local
-40979cc94f14   host      host      local
-c5cae7bd8fd2   none      null      local
-DRIVER    VOLUME NAME
-local     me
