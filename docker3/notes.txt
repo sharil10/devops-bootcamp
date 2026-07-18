@@ -1,0 +1,8 @@
+aws ecr get-login-password --region ap-southeast-1 | docker login --username AWS --password-stdin 132656278182.dkr.ecr.ap-southeast-1.amazonaws.com
+NETWORK ID     NAME      DRIVER    SCOPE
+a8350920a6be   arena     bridge    local
+2da93127c4b0   bridge    bridge    local
+40979cc94f14   host      host      local
+c5cae7bd8fd2   none      null      local
+DRIVER    VOLUME NAME
+local     me
