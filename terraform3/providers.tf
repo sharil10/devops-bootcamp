@@ -8,7 +8,7 @@ terraform {
   }
     backend "s3" {
     bucket       = "bootcamp-2026-sharil"
-    key          = "terraform2/terraform.tfstate"
+    key          = "terraform3/terraform.tfstate"
     region       = "ap-southeast-1"
     use_lockfile = true
   }
